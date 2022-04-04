@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+    background-color: #333333;
+}
+
+svg.kleinbiertje {
+    color: #eeeeee;
+    width: 32px;
+    height: 32px;
+}
+
+.kleinbiertje path {
+    fill: #eee;
+}
