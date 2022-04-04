@@ -7,13 +7,13 @@ body {
     height: 100vh;
 }
 
-svg.kleinbiertje {
+svg {
     color: #eeeeee;
     width: 16px;
     height: 16px;
 }
 
-.kleinbiertje path {
+svg {
     fill: #eee;
 }
 
