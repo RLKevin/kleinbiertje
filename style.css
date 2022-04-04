@@ -16,3 +16,11 @@ svg.kleinbiertje {
 .kleinbiertje path {
     fill: #eee;
 }
+
+.fa-primary {
+    fill: #eee;
+}
+
+.fa-secondary {
+    fill: #f1d328;
+}
