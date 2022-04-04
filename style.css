@@ -1,8 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    display: grid;
-    place-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
     background-color: #333333;
     height: 100vh;
 }
@@ -25,4 +28,5 @@ p {
     font-size: 8px;
     color: #eee;
     font-family: monospace;
+    line-height: 1;
 }
