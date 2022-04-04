@@ -4,12 +4,13 @@ body {
     display: grid;
     place-items: center;
     background-color: #333333;
+    height: 100vh;
 }
 
 svg.kleinbiertje {
     color: #eeeeee;
-    width: 32px;
-    height: 32px;
+    width: 16px;
+    height: 16px;
 }
 
 .kleinbiertje path {
